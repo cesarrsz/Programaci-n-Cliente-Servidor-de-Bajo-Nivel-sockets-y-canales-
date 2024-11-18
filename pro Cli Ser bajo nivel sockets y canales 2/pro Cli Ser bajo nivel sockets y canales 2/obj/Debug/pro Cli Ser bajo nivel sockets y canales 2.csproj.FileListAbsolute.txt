@@ -1,0 +1,7 @@
+C:\Users\cesar\source\repos\pro Cli Ser bajo nivel sockets y canales 2\pro Cli Ser bajo nivel sockets y canales 2\bin\Debug\pro Cli Ser bajo nivel sockets y canales 2.exe.config
+C:\Users\cesar\source\repos\pro Cli Ser bajo nivel sockets y canales 2\pro Cli Ser bajo nivel sockets y canales 2\bin\Debug\pro Cli Ser bajo nivel sockets y canales 2.exe
+C:\Users\cesar\source\repos\pro Cli Ser bajo nivel sockets y canales 2\pro Cli Ser bajo nivel sockets y canales 2\bin\Debug\pro Cli Ser bajo nivel sockets y canales 2.pdb
+C:\Users\cesar\source\repos\pro Cli Ser bajo nivel sockets y canales 2\pro Cli Ser bajo nivel sockets y canales 2\obj\Debug\pro Cli Ser bajo nivel sockets y canales 2.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\pro Cli Ser bajo nivel sockets y canales 2\pro Cli Ser bajo nivel sockets y canales 2\obj\Debug\pro Cli Ser bajo nivel sockets y canales 2.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\pro Cli Ser bajo nivel sockets y canales 2\pro Cli Ser bajo nivel sockets y canales 2\obj\Debug\pro Cli Ser bajo nivel sockets y canales 2.exe
+C:\Users\cesar\source\repos\pro Cli Ser bajo nivel sockets y canales 2\pro Cli Ser bajo nivel sockets y canales 2\obj\Debug\pro Cli Ser bajo nivel sockets y canales 2.pdb
